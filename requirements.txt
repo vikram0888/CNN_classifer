@@ -1,3 +1,4 @@
 mlflow
 tensorflow
 notebook
+tqdm
